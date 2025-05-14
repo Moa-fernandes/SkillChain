@@ -46,15 +46,15 @@ export default function Home() {
         <img
           src="/skills.png"
           alt="SkillChain Logo"
-          className="ml-44 mr-13 w-[380px] sm:w-[300px] md:w-[420px] lg:w-[320px] h-auto mb-6 drop-shadow-2xl rounded-xl"
+          className="ml-16 mr-10 w-[200px] sm:w-[300px] md:w-[220px] lg:w-[320px] h-auto mb-4 drop-shadow-2xl rounded-xl"
         />
 
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-green-400">
           SkillChain
         </h1>
-        <p className="text-gray-300 mt-4 max-w-2xl mx-auto text-sm sm:text-base">
-          "Uma rede descentralizada de talentos autodidatas e invisíveis,
-          conectando habilidades reais com oportunidades reais"
+        <p className="text-gray-300 mt-4 max-w-2xl mx-auto text-sm sm:text-base font-sans">
+        "Uma rede descentralizada de talentos autodidatas e invisíveis, <br></br>
+          Conectando habilidades reais com oportunidades reais"
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
